@@ -1,0 +1,4 @@
+type
+kayo
+ng
+kahit ano
